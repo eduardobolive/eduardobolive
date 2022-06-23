@@ -1,7 +1,7 @@
 ### Oi! Sou o Eduardo.
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobolive&layout=compact&langs_count=7&theme=dark&custom_title=Linguagens mais usadas&card_width=900"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobolive&layout=compact&langs_count=7&theme=default&custom_title=Linguagens mais usadas&card_width=900"/>
 </div>
 
 <div> 
